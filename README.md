@@ -2,11 +2,11 @@
 
 ## Single target
 
-`Poc.py`是单独对一个站点进行检测的，需要配合dnslog等来进行测试
+`Poc.py`是单独对一个站点进行检测的，需要配合dnslog等`ldap://xxx`来进行测试
 
 Example:
 
-![image-20221203201306115](./assets/image-20221203201306115.png)
+![](./assets/image-20221203201306115.png)
 
 ## Batch target
 
