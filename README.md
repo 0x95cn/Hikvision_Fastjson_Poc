@@ -6,6 +6,8 @@
 
 Example:
 
+python3 Poc.py -u http://127.0.0.1 -d xxx.dnslog.cn
+
 ![](./assets/image-20221203201306115.png)
 
 ## Batch target
